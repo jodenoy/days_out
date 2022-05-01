@@ -10,16 +10,17 @@ url: "http://jodenoy.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+#url: "http://jodenoy.github.io/days_out"
+#baseurl: "/days_out"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Everything Oyston
+title: Days Out or Denise's Rehab
 
 # Short description of your site
-description: Family History of The Oystons of Huddersfield
+description: After lockdown, 2 hospital and 2 care home stays, I need to recover my strength.  Having a brand new WAV (wheelchair accessible vehicle), I am starting with an early UK bucket list
+progressing through a European list and ending with a visit to Bethany in New York. 
 
 # --- Navigation bar options --- #
 
@@ -27,11 +28,11 @@ description: Family History of The Oystons of Huddersfield
 navbar-links:
   About Me: "aboutme"
   Tags: "tags"
-  Resources:
+  Web Sites:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "http://everythingoyston.co.uk"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
